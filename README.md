@@ -1,6 +1,6 @@
 # Simple React Development Environment
 
-A basic minimal React development environment without using `create-react-app`. This was created by following the steps in this ([guide](https://jscomplete.com/learn/1rd-reactful).
+A basic minimal React development environment without using `create-react-app`. This was created by following the steps in this [guide](https://jscomplete.com/learn/1rd-reactful).
 
 ## Installation
 
